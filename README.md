@@ -18,7 +18,7 @@ Je suis étudiant en Génie électrique avec une passion pour la technologie, le
 Je suis social et j'aime collaborer avec d'autres personnes sur des projets passionnants. La collaboration me permet de partager mes idées, d'apprendre des autres et de créer des solutions innovantes. Si vous avez des idées ou des projets sur lesquels vous aimeriez travailler ensemble, n'hésitez pas à me contacter !
 
 ## Contact
-📧 Vous pouvez me joindre à : [votre-email@example.com](genieachille9@gmail.com)
+📧 Vous pouvez me joindre à : [genieachille9@gmail.com]
 
 ## Pronoms
 - Il/Lui
