@@ -28,8 +28,6 @@ Je suis social et j'aime collaborer avec d'autres personnes sur des projets pass
 
 ---
 
-docteur1212/docteur1212 est un dépôt spécial car son `README.md` (ce fichier) apparaît sur votre profil GitHub. Vous pouvez cliquer sur le lien Aperçu pour voir vos modifications.
-
 <!---
 docteur1212/docteur1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
